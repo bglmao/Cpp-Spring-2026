@@ -9,4 +9,4 @@
 - `C102_2.cpp` | Part 1 of Lab
 - `C102_3.cpp` | Part 2 of Lab
 
-📹 Watch the [5‑minute interview]((https://www.youtube.com/watch?v=negYYQdZIIc)<br/>
+📹 Watch the [5‑minute interview](https://www.youtube.com/watch?v=negYYQdZIIc)<br/>
