@@ -24,13 +24,13 @@ int main() {            // Program execution entry point
   getline(cin, name);   // Reads full line (allows spaces in the name)
 
   // Get user's last 4-digits of phone number
-  do {                  // Do-While loop validates the number is 4-digits
-    cout << "Last 4-digit phone number? ";  // Prompt asking for the user's phone (w/out a newline)
-    cin >> phone;         // Reads the keyboard input (doesn't allow spaces)
-  } while (.               // Repeat while input is invalid:
-    phone.size() != 4 ||   // - Wrong length (not 4 char)
+  do {                                        // Do-While loop validates the number is 4-digits
+    cout << "Last 4-digit phone number? ";    // Prompt asking for the user's phone (w/out a newline)
+    cin >> phone;                             // Reads the keyboard input (doesn't allow spaces)
+  } while (.                                  // Repeat while input is invalid:
+    phone.size() != 4 ||                      // - Wrong length (not 4 char)
 		phone.find_first_not_of("0123456789") // - Contains non-digits using the find_first_not_of()...
-    != string::npos);                     //   ... returns npos (no position) if nothing is found
+    != string::npos);                         //   ... returns npos (no position) if nothing is found
   
   // Output user's name and last 4-digit phone number
   cout << "Your name: " << name << endl;                  // Prints user's name to the console
