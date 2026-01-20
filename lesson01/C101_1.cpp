@@ -27,7 +27,7 @@ int main() {            // Program execution entry point
   do {                                        // Do-While loop validates the number is 4-digits
     cout << "Last 4-digit phone number? ";    // Prompt asking for the user's phone (w/out a newline)
     cin >> phone;                             // Reads the keyboard input (doesn't allow spaces)
-  } while (.                                  // Repeat while input is invalid:
+  } while (                                   // Repeat while input is invalid:
     phone.size() != 4 ||                      // - Wrong length (not 4 char)
 		phone.find_first_not_of("0123456789") // - Contains non-digits using the find_first_not_of()...
     != string::npos);                         //   ... returns npos (no position) if nothing is found
